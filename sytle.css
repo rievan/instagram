@@ -1,0 +1,17 @@
+body {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+.container mt-1 {
+  background-color: black;
+  display: flex;
+  background: #212121;
+  font-size: 22px;
+  height: 70px;
+  justify-content: space-between;
+  border-radius: 1px;
+}
+.container mt-1 a .row:hover {
+  color: black;
+}
